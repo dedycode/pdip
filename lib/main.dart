@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.teal,
           leading: Icon(Icons.home),
-          title: Text('Tutorial Android Dengan Flutter #1 '),
+          title: Text('Tutorial Android Dengan Flutter #1 a'),
         ),
       ),
     );
